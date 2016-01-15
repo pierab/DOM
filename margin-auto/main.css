@@ -1,0 +1,17 @@
+div{
+	border: 10px solid yellow;
+	padding: 30px 20px;
+	width: 200px;
+	margin-bottom: 1px;
+
+}
+.top{
+
+	text-align: center;
+}
+
+.botton{
+		text-align: left;
+		margin: auto
+	
+}
